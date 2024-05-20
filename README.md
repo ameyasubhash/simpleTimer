@@ -13,7 +13,7 @@ The Simple Timer App is an Android application that allows users to set a timer 
 
 ## Demo
 
-[![Watch the video](path/to/thumbnail.png)](https://drive.google.com/file/d/1l2AS70IEB-VbdICz4wY9iw_OQlb_pkNk/view?usp=sharing)
+[![Watch the video]](https://drive.google.com/file/d/1l2AS70IEB-VbdICz4wY9iw_OQlb_pkNk/view?usp=sharing)
 
 *Click the image above to watch the video demo.*
 
